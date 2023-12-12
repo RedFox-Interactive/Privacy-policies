@@ -18,8 +18,7 @@ Link to the privacy policy of third-party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Unity](https://unity3d.com/legal/privacy-policy)
-*   [Unity Analytics](https://unity.com/legal/game-player-and-app-user-privacy-policy)
+*   [Google Analytics](https://policies.google.com/privacy?hl=en-US#intro)
 
 **Log Data**
 
