@@ -14,6 +14,9 @@ For a better experience, while using our Service, we may require you to provide 
 
 RedFox Interactive only intends to collect gameplay related data like: player rank, game play preferences and other other data like these. However, we are using some third party services that might collect PII data like your device's AdvertisingID that we are unable to turn off or otherwise are required to collect in order to for example show you ads.
 
+Hide and Hunt also faciliates game save synchronization between multiple devices via Play Games Services. For this, Hide and Hunt requires permission to write application related data to your Google Drive in a seperate folder managed by Google and Play Games Services. Hide and Hunt can not write nor can read any other application's or personal data from your Google Drive.
+The application also might display your Play Games account name to other opponents or team mates in online matches, however, we do not collect nor store this information anywhere.
+
 Link to the privacy policy of third-party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
